@@ -1,0 +1,23 @@
+{
+  "name": "rc-cli",
+  "version": "1.0.0",
+  "description": "react 项目脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/zzy5785175/rc-cli.git"
+  },
+  "keywords": [
+    "cli",
+    "react"
+  ],
+  "author": "2531353489@qq.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zzy5785175/rc-cli/issues"
+  },
+  "homepage": "https://github.com/zzy5785175/rc-cli#readme"
+}
